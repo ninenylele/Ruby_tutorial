@@ -186,6 +186,11 @@ int main() {
 
 ##
 
+## Slide Presentation
+[640710501_Class-Variable.pdf](https://github.com/user-attachments/files/22552739/640710501_Class-Variable.pdf)
+
+##
+
 ## Reference
 
 - Ruby-lang.org. (n.d.). _Classes and modules — Are there class variables?_ Ruby Programming Language FAQ. สืบค้นจาก [https://www.ruby-lang.org/en/documentation/faq/8/
